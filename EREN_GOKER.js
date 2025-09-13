@@ -182,6 +182,7 @@
                 position: relative;
                 overflow: hidden;
                 width: 100%;
+                touch-action: none;
             }
 
             .task-control-button {
